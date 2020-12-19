@@ -1,0 +1,10 @@
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\bin\Debug\WebThreeSixty.exe.config
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\bin\Debug\WebThreeSixty.exe
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\bin\Debug\WebThreeSixty.pdb
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\obj\Debug\WebThreeSixty.csprojAssemblyReference.cache
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\obj\Debug\WebThreeSixty.Form1.resources
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\obj\Debug\WebThreeSixty.Properties.Resources.resources
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\obj\Debug\WebThreeSixty.csproj.GenerateResource.cache
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\obj\Debug\WebThreeSixty.csproj.CoreCompileInputs.cache
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\obj\Debug\WebThreeSixty.exe
+E:\WORKS\AppDev\VisualCSharp\WebThreeSixty\obj\Debug\WebThreeSixty.pdb
