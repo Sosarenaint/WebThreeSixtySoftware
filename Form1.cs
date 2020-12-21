@@ -41,6 +41,7 @@ namespace WebThreeSixty
                 {
                     File.WriteAllText(projectName, text);
                     Directory.CreateDirectory(projectFolder);
+                    File.Copy(@"Resources\mbuhrek.html", projectFolder + "/mbuhrek.html");
                     string message = "File has been created.";
                     MessageBox.Show(message, "Great!");
                 }
